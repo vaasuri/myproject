@@ -1,4 +1,5 @@
 //prints hello world
+//also prints a message
 
 public class HelloWorld {
 
